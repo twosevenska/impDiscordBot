@@ -1,0 +1,10 @@
+{
+  "name": "impdiscordbot",
+  "version": "0.0.1",
+  "description": "Small, basic discord bot for testing purposes",
+  "main": "app.js",
+  "homepage": "https://github.com/twosevenska/impDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
