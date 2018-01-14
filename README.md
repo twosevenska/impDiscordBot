@@ -1,6 +1,6 @@
 # Imp, a discord bot
 
-![](https://imgur.com/a/QOqGY)
+![](https://i.imgur.com/NZ5orms.png)
 
 ## Quick description
 
